@@ -1,6 +1,6 @@
 public class Hesap {
-   public Zemin zemin;
-   public Hali hali;
+   private Zemin zemin;
+   private Hali hali;
 
     public Hesap() {
     }
