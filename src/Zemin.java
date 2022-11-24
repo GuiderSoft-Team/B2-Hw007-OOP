@@ -1,7 +1,7 @@
 public class Zemin {
-    public String aciklama;
-    public double genislik=0;
-    public double uzunluk=0;
+    private String aciklama;
+    private double genislik=0;
+    private double uzunluk=0;
 
     public Zemin() {
     }
