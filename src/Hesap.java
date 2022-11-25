@@ -1,7 +1,7 @@
 public class Hesap {
-    Zemin zemin = new Zemin();
+    Zemin zemin;
 
-    Hali hali = new Hali();
+    Hali hali;
 
     public Hesap() {
     }

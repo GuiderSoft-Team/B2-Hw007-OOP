@@ -1,5 +1,5 @@
 public class Hali {
-    double fiyat;
+    public double fiyat;
 
     public Hali() {
 
