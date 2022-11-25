@@ -1,6 +1,6 @@
 public class Zemin {
 
-    private String aciklama;
+    private String  aciklama;
     private double genislik;
     private double uzunluk;
 

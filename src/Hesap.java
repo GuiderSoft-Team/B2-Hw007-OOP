@@ -11,7 +11,7 @@ public class Hesap {
         this.zemin = zemin;
         this.hali = hali;
     }
-    public double getToplamMaliyet(){
+    public  double getToplamMaliyet(){
         return zemin.alanHesapla()*hali.getFiyat();
     }
 

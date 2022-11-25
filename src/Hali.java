@@ -12,7 +12,7 @@ public class Hali {
         }
 
     }
-     public double getFiyat(){
+     public  double getFiyat(){
         return fiyat;
      }
 
