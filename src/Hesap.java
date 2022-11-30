@@ -6,11 +6,9 @@ public class Hesap {
         this.zemin = zemin;
         this.hali = hali;
     }
-
     public Zemin getZemin() {
         return zemin;
     }
-
     public void setZemin(Zemin zemin) {
         this.zemin = zemin;
     }

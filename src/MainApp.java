@@ -7,6 +7,7 @@ public class MainApp {
         Hesap hesap = new Hesap(zemin, hali);
         System.out.print("Toplam maliyet: " + hesap.getToplamMaliyet()+"  ");
 
+
         hali = new Hali(1.5);
         zemin = new Zemin("Zemin2",5.4, 4.5);
         hesap = new Hesap(zemin, hali);

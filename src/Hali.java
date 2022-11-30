@@ -11,7 +11,6 @@ public class Hali {
         }
         return fiyat;
     }
-
     public void setFiyat(double fiyat) {
 
         this.fiyat = fiyat;
